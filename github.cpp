@@ -9,6 +9,7 @@ int sum = a+b;
 cout<<sum <<endl;
 
 cout<<"ente the number "<<endl;
+cout<<"enter your name ";
 
 
 
