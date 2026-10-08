@@ -8,7 +8,7 @@ int b = 5;
 int sum = a+b;
 cout<<sum <<endl;
 
-
+cout<<"ente the number "<<endl;
 
 
 
