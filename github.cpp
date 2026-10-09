@@ -10,6 +10,7 @@ cout<<sum <<endl;
 
 cout<<"ente the number "<<endl;
 cout<<"enter your name ";
+cout<<"enter your age" ;
 
 
 
